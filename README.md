@@ -1,5 +1,15 @@
 # JC1 Research Agent
 
+
+## Meta
+
+**Domain:** ai-agents
+**Depends on:** —
+**Depended by:** —
+**Implements:** JC1 Edge Research Agent — local LLM synthesis + PLATO tiles + fleet integration
+**Related:** —
+
+
 **Edge-native research pipeline. Fork of CCC for the Jetson/edge fleet.**
 
 CCC runs on K2.5 (cloud API). JC1 runs on a Jetson Orin Nano at 18 t/s with no API key.
